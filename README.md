@@ -24,6 +24,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=Heroku&logoColor=white"/></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=Netlify&logoColor=white"/></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Go-90e0ef?style=flat&logo=Golang&logoColor=white"/></a>&nbsp;
 </p>
 <h3><strong>About Me💁‍♂️</strong></h3>
 <p>
