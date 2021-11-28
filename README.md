@@ -28,9 +28,9 @@
 </p>
 <h3><strong>About Me💁‍♂️</strong></h3>
 <p>
-✨ interesting - frontend, typescript<br />
-💗 happiness - camping, disney+, webtoon, eating<br />
-✍ learning - canvas 2D, C++ statement<br />
+✨ interesting - interaction, db<br />
+💗 happiness - camping, webtoon, eating<br />
+✍ learning - canvas 2D, Golang<br />
 📚 currently reading a 'core javascript'<br />
 </p>
 
