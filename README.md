@@ -37,3 +37,5 @@
 <h3><strong>Contact📌</strong></h3>
 <a href="mailto:silluat11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>&nbsp;
 <a href="https://under-the-sea.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-60a3bc?style=flat&logo=About.me&logoColor=white"/></a>
+
+![cuttleman's github stats](https://github-readme-stats.vercel.app/api?username=cuttleman&show_icons=true&theme=react)
