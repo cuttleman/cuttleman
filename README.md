@@ -31,7 +31,7 @@
 ✨ interesting - interaction, db<br />
 💗 happiness - camping, webtoon, eating<br />
 ✍ learning - canvas 2D, Golang<br />
-📚 currently reading a 'core javascript'<br />
+📚 currently reading a 'Mastering Ethereum'<br />
 </p>
 
 <h3><strong>Contact📌</strong></h3>
